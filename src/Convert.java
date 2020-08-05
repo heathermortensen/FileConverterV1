@@ -19,7 +19,7 @@ public class Convert {
 		String convertToType = "";
 		
 		//Create the .txt file included in this package
-		File textFile = new File("C:\\Users\\Bob Ross\\Desktop\\workspace\\Convertii\\M,HeatherBGDataJune5.txt");
+		File textFile = new File("M,HeatherBGDataJune5.txt");
 		
 		//Get file path
 		String textFilePath = textFile.getAbsolutePath();
